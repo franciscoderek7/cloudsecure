@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CloudSecure",
+  "description": "CloudSecure \u2014 Cloud security services for AWS, Azure, and GCP. Real-time monitoring, threat detection, and compliance automation.",
+  "url": "https://franciscoderek7.github.io/cloudsecure",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "99",
+    "highPrice": "2499"
+  }
+}
